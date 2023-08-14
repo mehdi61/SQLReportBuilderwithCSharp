@@ -1,0 +1,92 @@
+﻿/* begin Box, Sheet */
+
+.M1e9h8d2i-Sheet-body
+{
+	zoom: 1;
+}
+/* end Box, Sheet */
+
+/* begin Box, Block */
+.M1e9h8d2i-Block-tl
+{
+	clip: rect(auto 7px 7px auto);
+}
+
+.M1e9h8d2i-Block-tr
+{
+	clip: rect(auto auto 7px 7px);
+}
+
+.M1e9h8d2i-Block-bl
+{
+	clip: rect(7px 7px auto auto);
+}
+
+.M1e9h8d2i-Block-br
+{
+	clip: rect(7px auto auto 7px);
+}
+
+.M1e9h8d2i-Block-tc
+{
+	clip: rect(auto auto 7px auto);
+}
+
+.M1e9h8d2i-Block-bc
+{
+	clip: rect(7px auto auto auto);
+}
+
+.M1e9h8d2i-Block-cr
+{
+	clip: rect(auto auto auto 7px);
+}
+
+.M1e9h8d2i-Block-cl
+{
+	clip: rect(auto 7px auto auto);
+}
+
+.M1e9h8d2i-Block-body
+{
+	zoom: 1;
+}
+/* end Box, Block */
+
+/* begin BlockHeader */
+.M1e9h8d2i-BlockHeader .r
+{
+	clip: rect(auto auto auto 994px);
+}
+/* end BlockHeader */
+
+/* begin Box, BlockContent */
+
+.M1e9h8d2i-BlockContent-body
+{
+	zoom: 1;
+}
+/* end Box, BlockContent */
+
+/* begin Box, Post */
+
+.M1e9h8d2i-Post-body
+{
+	zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.M1e9h8d2i-PostContent
+{
+	height:1%;
+}
+/* end PostContent */
+
+/* begin Button */
+.M1e9h8d2i-button-wrapper .r
+{
+	clip: rect(auto auto auto 400px);
+}
+/* end Button */
+

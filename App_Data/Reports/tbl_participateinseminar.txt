@@ -1,0 +1,1 @@
+Data Source=64.130.216.129;Initial Catalog=SeminarDB;User ID=SeminarUser;Password=1qaz!QAZ*SELECT ID, f_Nam, f_Lastname, f_CompanyName, f_UnitName, f_SMT, f_Termemployment, f_Phone, f_Fax, f_Email, f_Address, f_Corporate, f_Description FROM tbl_participateinseminar*
